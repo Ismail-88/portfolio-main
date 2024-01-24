@@ -1,0 +1,83 @@
+
+
+{
+    "project":[
+        {
+            "img":"images/w2.jpg",
+            "project_name":"Weather Forecast",
+            "git_link":"https://github.com/Ismail-88/weather-app",
+            "git_img":"images/project 1.png",
+            "netli_link":"https://app.netlify.com/sites/weathercap/configuration/general",
+            "netli_img":"images/netlify.png"
+        },
+                {
+            "project_name": "masjid",
+            "img": "images/MASK.jpg",
+            "git_link": "https://github.com/Ismail-88/newsite",
+            "netli_link": "https://masajids.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": "AI project ",
+            "img": "images/AI.avif",
+            "git_link": "https://github.com/Ismail-88/AI-machine",
+            "netli_link": "https://aimd.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": " Form validation",
+            "img": "images/cv8.jpg",
+            "git_link": "https://github.com/Ismail-88/validdation-form-js",
+            "netli_link": "https://rgformjs.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": " Calculator",
+            "img": "images/calci.jpg",
+            "git_link": "https://github.com/Ismail-88/calculator",
+            "netli_link": "https://calcidoop.netlify.app",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": "TO-DO List",
+            
+            "img": "images/ct1.png",
+            
+            "git_link": "https://github.com/Ismail-88/tosdos",
+            "netli_link": "https://todobookapp.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": "Music Player",
+            
+            "img": "images/cm7.jpg",
+            
+            "git_link": "https://github.com/Ismail-88/music-player",
+            "netli_link": "https://mdmusic.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": "Color Picker",
+            "img": "images/cp1.jpg",
+            "git_link": "https://github.com/Ismail-88/color-picker",
+            "netli_link": "https://colorpickingapp.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        },
+        {
+            "project_name": "Restaurent",
+            "img": "images/cr1.png",
+            "git_link": "https://github.com/Ismail-88/restaurent",
+            "netli_link": "https://mdmariorestaurent.netlify.app/",
+            "git_img":"images/github.png",
+            "netli_img":"images/netlify.png"
+        }
+
+    ]
+}
